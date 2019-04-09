@@ -1,0 +1,13 @@
+coverage
+node_modules
+npm-debug.log
+**/*.swp
+.idea/
+.DS_Store
+docker-compose.override.yml
+cached/*
+!cached/.gitkeep
+config/local.js
+./*[.-]lock
+dist/
+newrelic_agent.log
