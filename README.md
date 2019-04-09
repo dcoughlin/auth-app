@@ -16,6 +16,8 @@ http://localhost:3000
 
 ![Screen Shot 2019-04-09 at 12 55 52 PM](https://user-images.githubusercontent.com/5167968/55819522-f27fd880-5ac6-11e9-88ec-56f0bd27a2e7.png)
 
+![Screen Shot 2019-04-09 at 12 57 58 PM](https://user-images.githubusercontent.com/5167968/55819637-3e328200-5ac7-11e9-8f0f-d08b456e62ab.png)
+
 
 ### Facebook
 
